@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on [weatherDBI](https://github.com/db-db-dron/weatherdb)
 - 🌱 I’m currently learning Kotlin, android development
@@ -12,3 +12,12 @@
     - LinkedIn: https://www.linkedin.com/in/dron-bhattacharya-75aaa5221
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: (1-tanA)(1-cotA) = (1-tanA) + (1-cotA)
+<br/><br/>
+## Quick Peek _(for those who have very little time)_
+🔥 | ANDROID DEVELOPMENT:~INTERMEDIATE <br/>
+💻 | FULLSTACK WEB DEVELOPMENT:~SUPERIOR <br/>
+😎 | BUG HUNTER <br/>
+👉 | Eager to connect with people who love to DESIGN & CODE
+<br/><br/>
+## Spiritual Me
+>God is a process, not a superbeing, a process that we call life with a product that we call love, an expression we call creativity and a quality that we call freedom.
