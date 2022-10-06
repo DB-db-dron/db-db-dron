@@ -18,6 +18,3 @@
 💻 | FULLSTACK WEB DEVELOPMENT:~SUPERIOR <br/>
 😎 | BUG HUNTER <br/>
 👉 | Eager to connect with people who love to DESIGN & CODE
-<br/><br/>
-## Spiritual Me
->God is a process, not a superbeing, a process that we call life with a product that we call love, an expression we call creativity and a quality that we call freedom.
