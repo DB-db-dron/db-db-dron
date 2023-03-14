@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a passionate developer. When it comes to writing code, I never get bored - it's my favorite thing to do! I love the challenge of solving complex problems through programming and creating something useful and meaningful with my skills. In my free time, you'll find me tinkering with code, exploring new programming languages and frameworks, and collaborating with other developers to learn and grow. Let's connect and talk all things coding!
+
+### Overview
 - 🔭 I’m currently working on [weatherDBI](https://github.com/db-db-dron/weatherdb)
 - 🌱 I’m currently learning Kotlin, android development
 - 👯 I’m looking to collaborate on JavaScript/Typescript and Python projects
